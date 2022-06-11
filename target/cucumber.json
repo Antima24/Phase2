@@ -21,7 +21,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-06-11T12:56:10.017Z",
+        "start_timestamp": "2022-06-11T14:07:00.150Z",
         "line": 15,
         "name": "To validate the positive login",
         "description": "",
@@ -111,7 +111,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-06-11T12:56:10.048Z",
+        "start_timestamp": "2022-06-11T14:07:00.191Z",
         "line": 10,
         "name": "To validate the Product Prices",
         "description": "",
